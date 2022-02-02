@@ -1,6 +1,6 @@
 <h3>Bem vindo</h3>
 
-- 📚 Sou estudante de desenvolvimento de software Full Stack na Trybe
+- 📚 Sou estudante Full Stack na Trybe
 - 🖥 Dev Front-end e atualmente estudando Back-End
 - 💚 Apaixonado por tecnologia e inovação
 - 🎹 Músico nas horas vagas
